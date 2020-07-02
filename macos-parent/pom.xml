@@ -15,7 +15,7 @@
     <jstl-v>1.2</jstl-v>
     <json-lib>2.4</json-lib>
     <jackson-v>2.9.10</jackson-v>
-    <mysql>8.0.12</mysql>
+    <mysql>8.0.16</mysql>
     <slf4j>1.7.5</slf4j>
     <druid>1.0.16</druid>
     <mybatis>3.5.2</mybatis>
